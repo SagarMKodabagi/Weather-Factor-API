@@ -1,0 +1,10 @@
+fastapi
+pydantic
+joblib
+logging
+requests
+pandas
+xgboost
+sklearn
+math
+numpy
