@@ -22,7 +22,7 @@ Pandas, NumPy
 Uvicorn (for local dev server)
 
 # Usage
-Clone the repo
+Clone the repository
 
 # bash
 Copy code
